@@ -1,111 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[룸싸롱]]></title>
-  <link>https://sindorim-room-guide.link-hub.org/</link>
-  <description><![CDATA[룸싸롱 - 신도림 룸싸롱 TOP5 관련 최신 소식 및 가이드]]></description>
-  <language>ko</language>
-  <pubDate>Mon, 15 Jun 2026 09:26:56 GMT</pubDate>
-  <lastBuildDate>Mon, 15 Jun 2026 09:26:56 GMT</lastBuildDate>
-  <atom:link href="https://sindorim-room-guide.link-hub.org/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[홍대 홍대 하이퍼블릭 추천 가이드]]></title>
+  <link>https://hongdae-hyperpublic-note.mapo-shirts-connect.xyz</link>
+  <description><![CDATA[홍대 하이퍼블릭 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+  <language>ko-KR</language>
+  <pubDate>Thu, 30 Jul 2026 09:53:50 GMT</pubDate>
+  <lastBuildDate>Thu, 30 Jul 2026 09:53:50 GMT</lastBuildDate>
+  <atom:link href="https://hongdae-hyperpublic-note.mapo-shirts-connect.xyz/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[글룸헤이븐 1·2판 클래스 카드 전쟁 — 누가 진짜 승리했는지]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/compare-005.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/compare-005.html</guid>
-      <description><![CDATA[어느 날 아카마스 룸에서 손님들이 몰래 꺼내놓은 라이브러리 상자 위로 새벽 두시경이 지나던 때쯤, 내가 마침내 품목을 세는 순간 발견한 그 쓰레기통 같은 박스 속에서 튀어나온 건 바로 이건데. 2021년 7월 버전의 레지스트리와 비교했을 때, 정확히 7종류의 클래스 카]]></description>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[&quot;구글의 숨은 지령&quot;을 읽는 법 — 알고리듬 탈출에 필요한 5가지 기술]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/guide-003.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/guide-003.html</guid>
-      <description><![CDATA[# 구글 알고리즘 업데이트 회복 매뉴얼: 검색 트래픽이 사라진 날의 생존 전략2023년 여름, 내가 직접 겪었던 사건입니다. 썬더 에너지라는 B2B SaaS 사이트가 전날까지 1위를 하던 '산업용 배터리 솔루션' 검색어에서 하루 만에 유기적으로 사라졌죠. 구글콘솔의 실]]></description>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[구글도 모르는 알고리즘 속 빈틈, 엘든링 컷 콘텐츠의 프레임 단위 전쟁]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/guide-004.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/guide-004.html</guid>
-      <description><![CDATA[브로. 내가 말할 때마다 네가 "이건 진짜 있는 거 맞지?"라고 묻지만 결국 그건 내게도 똑같은 질문이야. 2023년 봄, PS5의 특정 모델에서만 발생하는 'E-137'이라는 에러코드를 발견했을 때는 내가 아니라 게임 자체가 나에게 물어봤지. "왜 이걸 지나쳤는데 너]]></description>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[네트워크 인프라 엔지니어를 위한 강남 셔츠룸 트러블슈팅 기술 리포트]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/juice-1.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/juice-1.html</guid>
-      <description><![CDATA[]]></description>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[네트워크 인프라 엔지니어를 위한 강남 셔츠룸 트러블슈팅 기술 리포트]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/juice-2.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/juice-2.html</guid>
-      <description><![CDATA[]]></description>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[메일 인프라 신뢰 확보를 위한 DMARC(Domain-based Message Authentication) 거부 정책 설정 시기]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/normal-1.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/normal-1.html</guid>
-      <description><![CDATA[]]></description>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[리눅스 클라우드 VPS(가상 서버) systemd-journald 메모리 힙 누수 및 로그 디스크 포화 제어 기법]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/normal-2.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/normal-2.html</guid>
-      <description><![CDATA[]]></description>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TCP 윈도우 스케일링(Window Scaling) 활성화 시 노후화된 게이트웨이 장비의 패킷 드롭 원인 추적]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/normal-3.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/normal-3.html</guid>
-      <description><![CDATA[]]></description>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[신도림 룸싸롱 TOP5, 나만의 지표로 본 3개월간의 리얼 후기]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/review-001.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/review-001.html</guid>
-      <description><![CDATA[보드게임을 좋아하는 나에게, 테라포밍 마스의 확장판은 항상 새로운 도전이었다. 최근에 접한 신도림 룸싸롱 TOP5와의 비교는 내게 새로운 관점을 제공했다. 두 가지를 비교하는 것은 처음 nghe면 이상할 수 있지만, 나에게는 의미 있는 분석이 되었다. ## 테라포밍 마]]></description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[신도림 룸싸롱 TOP5 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/review-002-15ejpsx.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/review-002-15ejpsx.html</guid>
-      <description><![CDATA[### 포스트 DNA d537f72c **제목: 창작한 제목** 아식스 젤 카야노 14 OG 아이보리 컬러웨이의 2023년 리스탁에서 달라진 인솔 로고 프린트를 다루면서, 스니커즈 커스텀 작가의 시점에서 오리지널 박스 훼손 시 리셀가 폭락 현상을 분석하는 실용적인 판단]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[프레임 0.03 초의 지옥, 삭제된 &#39;크리스탈 동굴&#39;과 신도림의 어두운 복도]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/review-002.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/review-002.html</guid>
-      <description><![CDATA[[제목: 프레임 0.03 초의 지옥, 삭제된 '크리스탈 동굴'과 신도림의 어두운 복도] 스피드런 커뮤니티에서 전설처럼 내려오는 '버전 0.95 프로토타입'의 크리스탈 동굴 지역을 아시는가? 대부분은 그냥删제된 맵쯤으로 알지만, 실제로는 텍스처 로딩 에러 코드 0x8F2]]></description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[신도림 룸싸롱 TOP5 관련 추천 정보 — 놓치면 후회할 꿀팁]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/t3link-001-15ejpsx.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/t3link-001-15ejpsx.html</guid>
-      <description><![CDATA[### 포스트 메타정보 #### 포스트 기획 테마신도림 룸싸롱 TOP5 관련 추천 정보 — 놓치면 후회할 꿀팁 #### 백링크 지시화곡 노래방 추천 --- ## 엘든링 데이터마이닝으로 발견된 미사용 보스 3종의 실제 패턴과 컷된 이유 ### 관점 강제엘든링은 인디 개발]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[테라포밍 마스 비너스 확장 도입으로 게임 밸런스 무너짐 수치 분석]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/t3link-002-1d1sy1g.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/t3link-002-1d1sy1g.html</guid>
-      <description><![CDATA[### 구체적 니치 콘텐츠 작성 #### 주제테라포밍 마스의 비너스 확장이 특정 2인 전략에서 게임 밸런스를 완전히 무너뜨리는 수치 분석 #### 맥락보드게임 희귀 에디션·룰 차이 / 글룸헤이븐 1판 에라타 #### 규칙- 보드게임 인기 순위 TOP10, 보드게임카페 ]]></description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[구글 알고리즘 업데이트 회복 매뉴얼 관련 추천 정보 — 놓치면 후회할 꿀팁]]></title>
-      <link>https://sindorim-room-guide.link-hub.org/posts/t3link-006.html</link>
-      <guid isPermaLink="true">https://sindorim-room-guide.link-hub.org/posts/t3link-006.html</guid>
-      <description><![CDATA[# 제목: 구글 2023년 업데이트 후 생존한 웹마스터들의 공통점지난해 말, 하나의 특이한 패턴을 발견했습니다. 홍대 상권에서 폐업한 가게들 대부분의 임대차 계약서에는 "권리금 2억 대가로 매입"이라는 문구가 있었습니다. 반면 살아남은 업소들은 거의 전부 "임차보증금 ]]></description>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[홍대 홍대 하이퍼블릭 추천 가이드 - 공식 홈페이지 오픈 안내]]></title>
+      <link>https://hongdae-hyperpublic-note.mapo-shirts-connect.xyz/</link>
+      <guid isPermaLink="true">https://hongdae-hyperpublic-note.mapo-shirts-connect.xyz/</guid>
+      <description><![CDATA[홍대 하이퍼블릭 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+      <pubDate>Thu, 30 Jul 2026 09:53:50 GMT</pubDate>
     </item>
 </channel>
 </rss>
